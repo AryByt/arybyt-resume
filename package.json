@@ -1,0 +1,14 @@
+{
+  "name": "arybyt-resume",
+  "version": "1.0.0",
+  "description": "first resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arybyt",
+  "license": "ISC"
+}
+"bin": {
+  "resume-me": "./index.js"
+},
